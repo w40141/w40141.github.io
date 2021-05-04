@@ -1,18 +1,18 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://w40141.github.io"  # Include trailing slash
-title = "ふぃーゆのほにゃらら"
-# title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
-copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
+baseurl = "https://w40141.github.io/"  # Include trailing slash
+# title = "Clarity"  # Edit directly from config/_default/languages.toml
+# alternatively, uncomment this and remove `title` entry from the aforemention file.
+copyright = "Copyright © {year}, Steve Francia and the Hugo Authors; all rights reserved."
 publishDir = "docs"
 canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
 
-languageCode = "ja-jp"
+languageCode = "ja"
 
-DefaultContentLanguage = "jp"
+DefaultContentLanguage = "ja"
 # [languages]
 # config/_default/languages.toml
 

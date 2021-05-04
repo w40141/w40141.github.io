@@ -3,10 +3,10 @@
   url = ""
   weight = -110
 
-[[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
+# [[main]]
+#   name = "Archives"
+#   url = "post/rich-content/"
+#   weight = -109
 
 # Submenus are done this way: parent -> identifier
 # [[main]]
@@ -24,7 +24,7 @@
 
 [[main]]
   name = "About"
-  url = "AboutMe/"
+  url = "aboutMe/"
   weight = -107
 
 # social menu links
@@ -46,10 +46,10 @@
 #   name = "rss"
 #   weight = 4
 #   url = "index.xml"
-[[social]]
-  name = "spotify"
-  weight = 5
-  url = "https://open.spotify.com/show/32szHs4IbCOb4GWW8cduKh?si=Lv7y3zqJSJCBH7IkEGP9eA"
+# [[social]]
+#   name = "spotify"
+#   weight = 5
+#   url = "https://open.spotify.com/show/32szHs4IbCOb4GWW8cduKh?si=Lv7y3zqJSJCBH7IkEGP9eA"
 
 # other supported social links
 # name = "youtube"

@@ -2,24 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://w40141.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://w40141.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/"
+                hreflang="jp"
+                href="https://w40141.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -28,79 +16,15 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://w40141.github.io/categories/"
+                href="https://w40141.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://w40141.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://w40141.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/tags/css/"
+                hreflang="jp"
+                href="https://w40141.github.io/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/tags/css/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/tags/featured/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/tags/html/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/post/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/post/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://w40141.github.io/pt/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://w40141.github.io/post/"
-                />
-  </url><url>
-    <loc>https://w40141.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,14 +33,15 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://w40141.github.io/series/"
+                href="https://w40141.github.io/en/series/"
                 />
   </url><url>
-    <loc>https://w40141.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://w40141.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://w40141.github.io/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -125,55 +50,24 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://w40141.github.io/tags/"
+                href="https://w40141.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://w40141.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://w40141.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://w40141.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://w40141.github.io/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://w40141.github.io/pt/about/"
+                href="https://w40141.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://w40141.github.io/about/"
+                href="https://w40141.github.io/en/"
                 />
-  </url><url>
-    <loc>https://w40141.github.io/tags/index/</loc>
   </url>
 </urlset>

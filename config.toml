@@ -1,6 +1,6 @@
-baseURL = "http://w40141.github.io"
-languageCode = "en-us"
-title = "My New Hugo Site"
-
-publishDir = "docs"
-canonifyurls = true
+# baseURL = "http://w40141.github.io"
+# languageCode = "ja-jp"
+# title = "ふぃーゆのほにゃらら"
+# 
+# publishDir = "docs"
+# canonifyurls = true

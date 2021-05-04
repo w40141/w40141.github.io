@@ -4,12 +4,17 @@
   <sitemap>
     <loc>https://w40141.github.io/en/sitemap.xml</loc>
     
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://w40141.github.io/pt/sitemap.xml</loc>
+    
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://w40141.github.io/pt/sitemap.xml</loc>
+    <loc>https://w40141.github.io/jp/sitemap.xml</loc>
     
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     

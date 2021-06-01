@@ -9,7 +9,7 @@ introURL = "aboutMe/" # set the url for the 'read more' button below the introDe
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+ga_analytics = "G-2ELVZWQQ6W"
 showReadTime = false
 
 # Baidu analytics Id

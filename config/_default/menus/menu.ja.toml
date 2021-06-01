@@ -17,15 +17,17 @@
 #   parent = "Links"
 #   name = "LinkedIn"
 #   url = "https://www.linkedin.com/"
-# [[main]]
-#   parent = "Links"
-#   name = "Twitter"
-#   url = "https://twitter.com/"
 
 [[main]]
   name = "About"
   url = "aboutMe/"
   weight = -107
+
+[[main]]
+  parent = "Links"
+  name = "Podcast"
+  url = "https://open.spotify.com/show/32szHs4IbCOb4GWW8cduKh?si=Lv7y3zqJSJCBH7IkEGP9eA"
+  weight = -10
 
 # social menu links
 
@@ -42,10 +44,10 @@
   name = "linkedin"
   weight = 3
   url = "https://www.linkedin.com/in/#"
-# [[social]]
-#   name = "rss"
-#   weight = 4
-#   url = "index.xml"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
 # [[social]]
 #   name = "spotify"
 #   weight = 5

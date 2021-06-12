@@ -7,7 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Copyright © {year}, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 21:44:17 +0900</lastBuildDate><atom:link href="https://w40141.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 22:53:38 +0900</lastBuildDate><atom:link href="https://w40141.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitbit Senseの画面を自作することにした（その1）</title>
+      <link>https://w40141.github.io/post/20210612/</link>
+      <pubDate>Sat, 12 Jun 2021 22:53:38 +0900</pubDate>
+      
+      <guid>https://w40141.github.io/post/20210612/</guid>
+      <description>
+        
+          &lt;h1 id=&#34;はじめに&#34;&gt;はじめに&lt;/h1&gt;
+&lt;p&gt;私はFitbitの&lt;a href=&#34;https://www.fitbit.com/global/jp/products/smartwatches/sense?sku=512BKBK&#34;&gt;Sense&lt;/a&gt;を使用している。
+心拍、歩数、睡眠トラッカー、Line等の通知ができて非常に気に入っている。
+しかし、気に入っていないことが一つだけある。
+それは文字盤である。Fitbit社から提供されているものから一般ユーザーが作ったものまで広く公開されているが、
+微妙に気に入ったのはない。&lt;/p&gt;
+&lt;p&gt;じゃあ、作るしか無い。&lt;/p&gt;
+&lt;p&gt;ということで、Fitbitの&lt;a href=&#34;https://dev.fitbit.com/&#34;&gt;Developerサイト&lt;/a&gt;に従い作ってみる。&lt;/p&gt;
+&lt;h1 id=&#34;目標とするもの&#34;&gt;目標とするもの&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;アナログ盤&lt;/li&gt;
+&lt;li&gt;月、日、曜日が描画される&lt;/li&gt;
+&lt;li&gt;バッテリー残量が描画される&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;シミュレーターを動かすまで&#34;&gt;シミュレーターを動かすまで&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://dev.fitbit.com/getting-started/&#34;&gt;Getting Start&lt;/a&gt;に従い、とりあえずシミュレーターを動かすまでの記録です。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fitbitにユーザー登録する。（みんなやっていると思うけど）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;シミュレーターをダウンロードする。&lt;br&gt;
+Macユーザーならbrewでもダウンロードできる。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;brew install fitbit-os-simulator
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://studio.fitbit.com/&#34;&gt;Fitbit Studio&lt;/a&gt;にアクセスする。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プロジェクトを作成する。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;名前は任意&lt;/li&gt;
+&lt;li&gt;今回はTemplateをDigital Clockにする（シミュレーターを動かすだけなので）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;作成したプロジェクトでBuildボタンを押してBuildする。&lt;br&gt;
+Buildに成功する（はず）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ダウンロードしたシミュレーターを起動する。&lt;br&gt;
+このときSettingsから自分のアプリを作りたいデバイスにする。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SimulatorとSenseSimulatorを接続する。&lt;br&gt;
+シミュレーターを起動するとタブ中央のSimulatorとSense Simulatorが接続できるので、シミュレーターを選択して接続する。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;実行する。&lt;br&gt;
+Runボタンを押すとシミュレーターに描画される。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;次回の予告&#34;&gt;次回の予告&lt;/h1&gt;
+&lt;p&gt;今日はとりあえず、シミュレーターを動かすまでをやった。
+次回はアナログ盤にしようと思う。&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>2021年6月3日の隔日報</title>
       <link>https://w40141.github.io/post/20210603/</link>
